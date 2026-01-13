@@ -1,4 +1,4 @@
- ## <p align="center">Hi i'm sampath</p>
+ ## <p align="center">Hi i'm Rimas</p>
 
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
